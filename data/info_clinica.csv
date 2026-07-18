@@ -1,0 +1,3 @@
+nombre_medicamento,principio_activo,para_que_sirve,efectos_secundarios
+Acetaminofen,Acetaminofen,"Se usa para aliviar dolor leve o moderado y reducir la fiebre.","Puede causar nauseas, reaccion alergica o dano hepatico si se usa en dosis altas."
+Ibuprofeno,Ibuprofeno,"Se usa para aliviar dolor, inflamacion y fiebre.","Puede causar dolor gastrico, acidez, sangrado digestivo o afectar el rinon en algunas personas."
